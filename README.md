@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Alberto</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cazcode&label=Profile%20views&color=0e75b6&style=flat" alt="cazcode" /> </p>
