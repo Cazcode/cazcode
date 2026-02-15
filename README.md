@@ -21,7 +21,7 @@ Backend developer focused on building scalable, secure and maintainable systems 
 - Clean Architecture / Hexagonal Architecture
 - Backend systems ready for production
 
-🏆 Featured Projects
+### 🏆 Featured Projects
 
 🔹 E-commerce Microservice Architecture Spring Boot + Docker + PostgreSQL + JWT
   → Secure authentication
