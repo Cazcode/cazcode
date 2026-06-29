@@ -1,44 +1,109 @@
-# 👋 Hi, I'm Alberto
-🚀 Java Backend Developer | Spring Boot | Microservices | Cloud
+# 👋 Hi, I'm Alberto Castro
 
-Backend developer focused on building scalable, secure and maintainable systems using Java and modern cloud-native architectures.
+### Senior Backend Engineer | Java 21 | Spring Boot | Cloud-Native Architect | Microservices
 
-## I specialize in:
+I design and build scalable, resilient, and cloud-native backend systems with a strong focus on clean architecture, distributed systems, and high-performance applications.
 
-- ⚙️ Java & Spring Boot
-- 🧩 REST APIs & Microservices
-- 🐳 Docker & Containerization
-- ☁️ AWS
-- 🛢️ PostgreSQL / MySQL
-- 🔐 Security (JWT, OAuth2, Spring Security)
-- 🧪 Testing (JUnit, Mockito, Integration Testing)
+With over **10 years of experience** developing enterprise software, I specialize in designing production-ready solutions that prioritize scalability, maintainability, security, and performance.
 
-### 💡 What I enjoy building
+---
 
-- High-performance REST APIs
-- Event-driven systems
-- Scalable microservice architectures
-- Clean Architecture / Hexagonal Architecture
-- Backend systems ready for production
+## 🚀 Engineering Focus
 
-### 🏆 Featured Projects
+* ☕ Java 8 / 21
+* 🌱 Spring Boot • Spring Security • Spring Data JPA
+* 🏗️ Microservices & Distributed Systems
+* 🧩 REST APIs • gRPC • Event-Driven Architecture
+* ☁️ AWS (EC2, S3, IAM, CloudWatch)
+* 🐳 Docker • Kubernetes • CI/CD
+* 📨 Apache Kafka • RabbitMQ
+* 🗄️ PostgreSQL • MySQL • MongoDB • Redis
+* 🔐 OAuth2 • JWT • Spring Security
+* 🧪 JUnit 5 • Mockito • Testcontainers
+* 📊 Observability • Logging • Monitoring
+* 🏛️ Clean Architecture • Hexagonal Architecture • DDD • SOLID
 
-🔹 E-commerce Microservice Architecture Spring Boot + Docker + PostgreSQL + JWT
-  → Secure authentication
-  → Order & inventory management
-  → Dockerized environment
+---
 
-🔹 Task Management API (Production-ready)
-REST API with authentication, validation & testing
-→ 80%+ test coverage
-→ CI/CD pipeline
+## 💡 What I Build
 
-🔹 Event-Driven Notification Service
-Kafka-based async messaging
-→ Email & push notifications
-→ Retry & fault tolerance
+I enjoy building software that solves real business problems through modern engineering practices.
 
-### 📫 Let's connect
+✔️ High-performance REST APIs
+
+✔️ Cloud-native backend applications
+
+✔️ Event-driven microservices
+
+✔️ Highly available distributed systems
+
+✔️ Secure authentication & authorization
+
+✔️ Production-ready backend platforms
+
+✔️ CI/CD pipelines & DevOps automation
+
+✔️ Performance optimization & scalability
+
+---
+
+## 🏆 Featured Projects
+
+### 🛒 Enterprise E-commerce Platform
+
+**Java • Spring Boot • PostgreSQL • Redis • Docker • JWT**
+
+* Secure authentication & authorization
+* Inventory & Order Management
+* Redis-based caching
+* Dockerized environment
+* Clean Architecture implementation
+* CI/CD ready
+
+---
+
+### 📋 Task Management API
+
+**Production-Ready REST API**
+
+* Spring Boot 3
+* JWT Authentication
+* OpenAPI / Swagger
+* Validation & Exception Handling
+* 80%+ Unit Test Coverage
+* GitHub Actions CI/CD
+
+---
+
+### 📨 Event-Driven Notification Service
+
+**Kafka-Based Microservice**
+
+* Apache Kafka messaging
+* Email & Push Notifications
+* Retry & Dead Letter Queue
+* Fault Tolerance
+* Distributed Event Processing
+
+---
+
+## 📚 Currently Exploring
+
+* Java 21 Features
+* AI-assisted Software Engineering
+* Advanced System Design
+* Kubernetes & Cloud-Native Platforms
+* High Availability Architectures
+* Event Streaming at Scale
+
+---
+
+## 🤝 Let's Connect
+
+💼 Open to Senior Backend Engineer, Software Engineer, and Solution Architect opportunities.
+
+If you're interested in scalable backend systems, cloud architecture, or distributed applications, feel free to connect or explore my repositories.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
